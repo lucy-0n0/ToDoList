@@ -24,8 +24,8 @@ function render() {
     resultHTML += `<div class="task">
         <div>${taskList[i]}</div>
         <div>
-          <button>첵</button>
-        <button>지우기</button>
+          <button>check</button>
+        <button>delete</button>
       </div>
       </div>`;
   }
